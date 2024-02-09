@@ -1,0 +1,12 @@
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
+unstructured
+pinecone-client
+tiktoken
+pandas
+numpy
+streamlit
+langchain-google-genai
